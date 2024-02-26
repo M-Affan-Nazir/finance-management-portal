@@ -1,0 +1,11 @@
+C:\MADE\Software\C++\Finance Management\Source Code Visualizer C#\VS-File\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER\bin\Debug\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER.exe.config
+C:\MADE\Software\C++\Finance Management\Source Code Visualizer C#\VS-File\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER\bin\Debug\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER.exe
+C:\MADE\Software\C++\Finance Management\Source Code Visualizer C#\VS-File\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER\bin\Debug\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER.pdb
+C:\MADE\Software\C++\Finance Management\Source Code Visualizer C#\VS-File\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER\obj\Debug\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER.csproj.AssemblyReference.cache
+C:\MADE\Software\C++\Finance Management\Source Code Visualizer C#\VS-File\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER\obj\Debug\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER.csproj.SuggestedBindingRedirects.cache
+C:\MADE\Software\C++\Finance Management\Source Code Visualizer C#\VS-File\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER\obj\Debug\PERSONAL_FINANCE_MANAGEMENT_SYSTEM___VISUALIZER.Properties.Resources.resources
+C:\MADE\Software\C++\Finance Management\Source Code Visualizer C#\VS-File\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER\obj\Debug\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER.csproj.GenerateResource.cache
+C:\MADE\Software\C++\Finance Management\Source Code Visualizer C#\VS-File\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER\obj\Debug\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER.csproj.CoreCompileInputs.cache
+C:\MADE\Software\C++\Finance Management\Source Code Visualizer C#\VS-File\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER\obj\Debug\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER.exe
+C:\MADE\Software\C++\Finance Management\Source Code Visualizer C#\VS-File\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER\obj\Debug\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER.pdb
+C:\MADE\Software\C++\Finance Management\Source Code Visualizer C#\VS-File\PERSONAL FINANCE MANAGEMENT SYSTEM - VISUALIZER\obj\Debug\PERSONAL_FINANCE_MANAGEMENT_SYSTEM___VISUALIZER.formMain.resources
