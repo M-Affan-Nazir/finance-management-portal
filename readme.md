@@ -16,3 +16,12 @@ This application is a comprehensive tool designed for managing personal finances
 ---------------------------------------------------------------
 
 This application aims to provide users with a robust, user-friendly platform for personal finance management that leverages the power of both command-line efficiency and visual data representation. Whether you're tracking your expenses, analyzing spending habits, or planning for future financial needs, this tool brings all your financial management needs into a simple, effective application.
+
+
+---------------------------------------------------------------
+
+#### CLI PROGRAM:
+![CLI PROGRAM](assets/2.png)
+
+#### VISUALIZER PROGRAM:
+![CLI PROGRAM](assets/1.png)
