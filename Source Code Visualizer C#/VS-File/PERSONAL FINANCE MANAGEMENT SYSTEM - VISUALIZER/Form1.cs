@@ -15,11 +15,11 @@ namespace PERSONAL_FINANCE_MANAGEMENT_SYSTEM___VISUALIZER
     public partial class formMain : Form
     {
 
-        string accountBalance = "C:/MADE/Software/C++/Finance Management/Build/financial_data/accountBalance.fmd";
-        string efBalance = "C:/MADE/Software/C++/Finance Management/Build/financial_data/emf.fmd";
-        string transacHist = "C:/MADE/Software/C++/Finance Management/Build/financial_data/th.fmd";
-        string balanceHist = "C:/MADE/Software/C++/Finance Management/Build/financial_data/bh.fmd";
-        string emfHistory = "C:/MADE/Software/C++/Finance Management/Build/financial_data/efh.fmd";
+        string accountBalance = "./financial_data/accountBalance.fmd";
+        string efBalance = "./financial_data/emf.fmd";
+        string transacHist = "./financial_data/th.fmd";
+        string balanceHist = "./financial_data/bh.fmd";
+        string emfHistory = "./financial_data/efh.fmd";
 
         public formMain()
         {
